@@ -1,4 +1,5 @@
 Store data analysis 
+Step By Step process
 1) data Clealing
 2) Data processing
 3) Data analysis
