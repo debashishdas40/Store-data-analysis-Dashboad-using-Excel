@@ -1,9 +1,9 @@
 Store data analysis 
 Step By Step process
-1) data Clealing
+1) Data Clealing
 2) Data processing
 3) Data analysis
-4) crate dashboard using Excel
+4) Create dashboard using Excel
 5) Outcome 
 
 <img width="749" alt="image" src="https://github.com/debashishdas40/Store-data-analysis-Dashboad-using-Excel/assets/30859632/bb9b1b60-a5b3-4514-a7bf-fdf416399998">
